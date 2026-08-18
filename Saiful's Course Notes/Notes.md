@@ -1,6 +1,6 @@
 # 📚 Spoken English Course Notes
 
-### Instructor: Tarek Sir | Student: Mohammed Touhidul Alam
+### Instructor: Tarek Sir | Student: Mohammad Abdul Hamid
 
 ---
 
@@ -622,7 +622,7 @@ This is a **full, ready-to-speak self-introduction** written by the student (Tou
 
 > **Assalamualaikum. Hello Everyone.**
 >
-> **Myself is Mohammed Touhidul Alam. But you can call me Touhid.**
+> **Myself is Mohammad Abdul Hamid. But you can call me Touhid.**
 >
 > **I am from Chattogram. But I reside in Kotwali.**
 >
@@ -645,7 +645,7 @@ This is a **full, ready-to-speak self-introduction** written by the student (Tou
 | Line                                                                     | Function                 | Key Structure Used                                   |
 | ------------------------------------------------------------------------ | ------------------------ | ---------------------------------------------------- |
 | Assalamualaikum. Hello Everyone.                                         | Greeting                 | Religious/cultural greeting + universal greeting     |
-| Myself is Mohammed Touhidul Alam.                                        | Formal name introduction | Myself is + [Full Name]                              |
+| Myself is Mohammad Abdul Hamid.                                          | Formal name introduction | Myself is + [Full Name]                              |
 | But you can call me Touhid.                                              | Giving nickname          | You can call me + [Short Name]                       |
 | I am from Chattogram.                                                    | Origin                   | I am from + [hometown]                               |
 | But I reside in Kotwali.                                                 | Current residence        | I reside in + [current place]                        |
