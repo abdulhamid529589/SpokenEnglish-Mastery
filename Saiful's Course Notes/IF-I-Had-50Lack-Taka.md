@@ -1,15 +1,14 @@
 # If I Had 50 Lakh Taka — Presentation Script
 ### 5–8 Minutes | Fun, Punchy, Natural | Simple Words, Big Personality
-
-*Don't memorize sentences. Memorize the STORY. Then just tell it like you're talking to a friend.*
-
 ---
 
 ## Opening — Hook First, Introduce Second
 
 Good morning, everyone.
 
-Today I am going to talk about something that I think everyone in this room has thought about at least once — what would you do if you suddenly had a lot of money, and you had to spend all of it in just three days?
+Today I am going to talk about something that I think everyone in this room has thought about at least once — what would you do if someone gives you a lot of money, and you have to spend all of it in just three days?
+
+*(pause)*
 
 Three days ago, in my head, I became a millionaire. Well — a lakhpati, to be exact. Fifty lakh taka, sitting right in front of me, with one strange condition — spend all of it in just three days, or it disappears forever.
 
@@ -19,7 +18,7 @@ For the first hour, I felt like the luckiest person alive. I was already imagini
 
 *(small smile)*
 
-By the second hour... I checked my imaginary pocket. Empty. Already. In my head, I had somehow spent 50 lakh taka faster than I finish a plate of biryani.
+By the second hour... I checked my imaginary pocket. Empty. Already. In my head, I had somehow spent 50 lakh taka faster than I can finish a plate of biryani.
 
 *(pause, look at audience)*
 
@@ -120,37 +119,37 @@ It will be a beautiful, chaotic, completely perfect day.
 ---
 
 ## Day 2 — The Trip That Actually Happens
-### *(With Everyone I Love)*
+### *(With My Friends)*
 
-Quick question for everyone — do you have a friend group that has been planning a trip for over a year?
+Day 2 is simple. One day. All my friends. One destination (des-ti-NAY-shun).
 
-*(pause for reaction)*
-
-Yes. So do I.
-
-We have been planning the big trip for a very long time. Every few months someone says — okay, this time we actually do it. And then life happens. And the trip does not happen. At this point, the trip is basically a legend. A story we tell but have never lived.
-
-But here is my version of Day 2 — and it is a little different from what most people would do.
-
-I am not going on this trip alone, or just with friends. I am taking everyone. My full family. All my friends. Every person who matters to me — all of them, together, one trip, one destination (des-ti-NAY-shun).
+Now, I know what a "friends trip" usually looks like. Someone says "let's go." Everyone agrees. Then someone cannot make it. Then someone else has something to do. Then the whole plan slowly disappears and nobody talks about it again.
 
 *(pause)*
 
-Think about that for a second. When was the last time your entire family and all your friends went somewhere together, without anyone worrying about cost, without anyone saying "I cannot afford it this time"? For most of us — never. Because somebody always has to stay behind.
+Not this time.
 
-Not on Day 2.
+On Day 2, I handle everything. Transport (TRANS-port) — fully arranged and paid for, door to door. Entry fees — covered. Snacks and everything for the whole day — covered. Every single expense, for every single friend. Nobody checks their wallet. Nobody feels awkward about the cost. The only thing anyone has to do is be ready on time.
 
-I cover everything for everyone. Hotels, transport (TRANS-port), food, entry fees — every single cost, for every single person. Nobody calculates anything. Nobody feels awkward. For once, the only thing everyone needs to do is show up and enjoy.
+*(small smile)*
 
-We pick one destination and experience it properly — not rushed, not squeezed into a tight schedule, but actually explored. Good food together, real memories made together. The kind of day that people talk about for years after.
+And if someone is late — I am leaving without them. Fifty lakh taka does not include waiting.
 
-And of course — somewhere in that trip, if there is any flat ground available, there will absolutely be a cricket match. Because what is a big group trip without a cricket match? That is not a trip. That is just a very organized picnic.
+We go somewhere scenic (SEE-nik) — somewhere with open space, fresh air, and a view that actually makes you stop and just look for a moment. Not a crowded mall, not a noisy restaurant. Somewhere that actually feels like you went somewhere.
+
+We explore properly. No rushing, no tight schedule. We walk around, we talk, we take photos — not for Instagram, just to actually remember the day.
+
+And then — the best part. We cook together. We buy the freshest, best ingredients money can find, find a perfect open spot, set everything up, and just cook. Everyone does something. Someone handles the fire, someone cuts the vegetables, someone stirs the pot, and someone — there is always one — just stands there giving advice without touching anything at all.
 
 *(smile)*
 
-Honestly, of all three days — this one makes me feel the best. Because the lab and the gadgets and the music studio are all for me. But Day 2 is for everyone else. And that feels different.
+We sit together on the ground, in the open air, and eat what we made ourselves. No menu, no waiter, no restaurant table. Just us, our food, the view, and a few hours where nobody is thinking about anything else.
 
-**Day 2 budget: 12 lakh taka. For the trip that everyone finally gets to go on.**
+By the time we get back home that evening, everyone is tired, full, and happy. And the group chat is already full of photos from the day.
+
+That is Day 2. Simple, real, and worth every single taka.
+
+**Day 2 budget: 8 lakh taka. Best day of the year — guaranteed.**
 
 ---
 
@@ -195,9 +194,9 @@ Oh, and a drone (DROHN). Because I travel, I love photography, and a drone is ju
 | Day | The Plan | Budget |
 |---|---|---|
 | Day 1 | Dream tech setup + smart home lab + Music studio | 22 lakh |
-| Day 2 | Full family + all friends trip | 12 lakh |
+| Day 2 | Friends trip — one day, one destination, fully covered | 8 lakh |
 | Day 3 | Full life automation — zero manual tasks | 8 lakh |
-| **Buffer** | Because something always goes wrong | 8 lakh |
+| **Buffer** | Because something always goes wrong | 12 lakh |
 | **Total** | | **50 lakh ✓** |
 
 *(look up from table)*
@@ -208,11 +207,11 @@ Yes, I kept a buffer. Because I am a developer. We always plan for unexpected er
 
 ## Closing — The Line That Sticks
 
-So. Dream lab, music studio, one real trip with everyone I love, and a fully automated life. That is my 50 lakh taka in 3 days.
+So. Dream lab, music studio, one perfect day out with my friends, and a fully automated life. That is my 50 lakh taka in 3 days.
 
 Here is what I realized while planning all of this. If you give someone 50 lakh taka and say "spend it on your dreams" — what they spend it on tells you more about them than any introduction ever could.
 
-I spent mine on tools to build things I love — both in code and in music. On a trip I have been postponing for too long. And on a life that runs so efficiently that my brain is always free for the things that actually matter.
+I spent mine on tools to build things I love — in code and in music. On a trip that finally brings my friends together. And on a life that runs so efficiently that my brain is always free for what actually matters.
 
 The 50 lakh taka is imaginary. But the vision of what I want my life to look like? That part is very real.
 
@@ -225,18 +224,17 @@ Thank you.
 ## Delivery Secrets — How to Make This Land
 
 **Lines to say SLOWLY, with full eye contact:**
-- *"I do not."* — your biggest laugh moment, pause before and after
-- *"The trip is basically a legend."*
-- *"I simply want one."* — after the drone, deadpan delivery
+- *"But he only has one broken brush."* — let it land before moving on
+- *"That is me. Right now. Every day."*
+- *"Not this time."* — slow, confident, the turning point of Day 2
 - *"The only thing I still do manually... is breathe."*
 - *"The 50 lakh taka is imaginary. But the vision — that part is very real."*
 
 **Lines to deliver with a small smile, slightly faster:**
-- *"My back usually loses."*
+- *"My back loses."*
 - *"Day 1 is for you, back."*
-- *"That is not a trip. That is just a very organized picnic."*
+- *"Fifty lakh taka does not include waiting."* — deadpan, straight face
 - *"I might automate that too."* — straight face, maximum effect
-- *"Trying to decide which one to use first."* — at the end of Day 1, light smile
 
 **Filler words — one per section, not one per sentence:**
 - *"So"* — opening a new idea or section
@@ -259,11 +257,14 @@ Opening, Closing, and every *(pause)* moment — always look at the audience.
 
 ## Likely Questions + Your Answers
 
-**Q: Why no family expenses or charity?**
-A: "Actually, Day 2 is entirely for my family and friends — I cover the whole trip for everyone. That is my way of including the people I love in this plan."
+**Q: Why no charity or family gifts?**
+A: "Day 2 is for my friends — I cover everything for all of them. And Day 1 already improves my home setup which benefits everyone around me too."
 
-**Q: Why take everyone on one trip instead of giving them money individually?**
-A: "Because an experience we share together is worth more than money given separately. A trip creates a memory. Money just gets spent."
+**Q: Why take everyone on a trip instead of giving them money individually?**
+A: "Because an experience we share together is worth more than money given separately. A shared day creates a memory that lasts. Money just gets spent."
+
+**Q: Why only one destination instead of many places?**
+A: "I would rather experience one place properly than rush through five and enjoy nothing. Quality over quantity."
 
 **Q: What instrument would you buy first?**
 A: "The harmonium. In Qawwali and Naat, it is really the heart of the sound — I have wanted a proper one for a long time."
@@ -275,13 +276,10 @@ A: "Honestly, it is the emotion. This kind of music feels like it comes from the
 A: "Music is actually what keeps me sane during long coding sessions. When my brain is full of code, music empties it again. They balance each other."
 
 **Q: Is buying cybersecurity courses not investing?**
-A: "Investing in myself is spending — it does not generate business profit. It is knowledge I use personally, not money I earn from."
+A: "Investing in myself is spending — it does not generate business profit. It is knowledge I use for myself, not a way to earn money from others."
 
 **Q: What would you build first with your smart home lab?**
 A: "Probably a system where one button controls my lights, fan, and music together. And definitely that plant watering system — my plants deserve better than my memory."
-
-**Q: Why only one travel destination?**
-A: "I would rather experience one place properly than rush through five and enjoy nothing. Quality over quantity (KWON-ti-tee)."
 
 **Q: Is all this automation not lazy?**
 A: "Actually the opposite — automation removes small, repetitive tasks so my brain has more energy for creative ones. The best engineers in the world automate everything they can, so they can focus on what needs human thinking."
@@ -319,6 +317,7 @@ A: "That is the buffer. Something always goes wrong — that is just how life wo
 | soundproofing | SOUND-proof-ing |
 | destination | des-ti-NAY-shun |
 | transport | TRANS-port |
+| scenic | SEE-nik |
 | gadgets | GAD-jets |
 | automating | AW-toh-may-ting |
 | sleep cycle | SLEEP SY-kul |
